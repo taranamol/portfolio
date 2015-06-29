@@ -1,14 +1,62 @@
- 
-
 .nav nav-pills {
-background-color: #E74C3C;
-
+  background-color: #E74C3C;
 }
 
 .jumbotron {
-    background-color: #E74C3C;
-    background-image:url(http://static.tumblr.com/289417ab992746f4d5238c5b898265f6/bgmhkat/PLGmr094x/tumblr_static_tumblr_static_stock___flying_black_birds___silhouette_3_by_jassy2012-d5la8ci.png);
-    background-position:center;
-    width:1000px;
-    height:400px;
-    }
+  background-image: url("http://i.stack.imgur.com/MtKUX.jpg");
+  background-position:center;
+  width:1000px;
+  height:400px;
+}
+
+h1 {
+  font-family: "Lucida Sans Unicode";
+  font-size: 24px;
+}
+
+p {
+  font-family: "Lucida Grande";
+}
+
+#project1 {
+  width: 350px;
+  height: 150px;
+}
+
+#project1 img {
+ width: 100%;
+ height: auto;
+}
+
+#project2 {
+  width: 350px;
+  height: 150px;
+}
+
+#project2 img {
+ width: 100%;
+ height: auto;
+}
+
+#project3 {
+  width: 350px;
+  height: 150px;
+}
+
+#project3 img {
+ width: 100%;
+ height: auto;
+}
+
+#footer {
+ clear: both;
+ position: relative;
+ z-index: 10;
+ height: 3em;
+ margin-top: -3em;
+ background-color: black;
+ color:white;
+ text-align: center;
+}
+
+
